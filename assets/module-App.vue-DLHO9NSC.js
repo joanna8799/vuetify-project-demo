@@ -1,1 +1,0 @@
-import{r as a,o as r,c as n,w as e,V as s,a as o,b as _}from"./vendor-CaoFhvBr.js";const i={__name:"App",setup(c){return(p,l)=>{const t=a("router-view");return r(),n(s,null,{default:e(()=>[o(_,null,{default:e(()=>[o(t)]),_:1})]),_:1})}}};export{i as _};

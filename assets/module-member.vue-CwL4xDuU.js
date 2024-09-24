@@ -1,0 +1,1 @@
+import{_ as e}from"./module-AppFooter.vue-X7EV_EWd.js";import{o,d as t,f as r}from"./vendor-CEtmQXFF.js";/* empty css                                                                              */const s={name:"MemberPage"},a=r("h1",null,"Member Page",-1),n=[a];function c(_,m,p,d,i,f){return o(),t("div",null,n)}const $=e(s,[["render",c]]);export{$ as default};

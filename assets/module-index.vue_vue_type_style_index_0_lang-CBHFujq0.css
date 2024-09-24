@@ -1,0 +1,1 @@
+.container{display:grid;place-items:center;height:100%}.welcome-box{width:360px;height:200px;border:1px solid #ccc;box-sizing:border-box;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center;align-content:center}
